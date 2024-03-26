@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(61, 56, 56);
 }
 
 .divPrincipal{
@@ -13,4 +13,5 @@
     align-items: center;
     border-right: 2px solid black;
     text-decoration: underline;
+    gap: 5%;
 }

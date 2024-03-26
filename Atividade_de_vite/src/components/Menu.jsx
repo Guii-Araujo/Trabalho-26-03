@@ -3,7 +3,7 @@ import style from './Menu.module.css'
 export default function Menu(){
     return(
         <div className={style.divPrincipal}>
-            <p>Bah</p>
+            <p>MENU</p>
             <div>
                 <p>
                     <a href={'/'}>Home</a>
